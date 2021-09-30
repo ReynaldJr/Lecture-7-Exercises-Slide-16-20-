@@ -38,7 +38,7 @@ Exercises in Lecture 7 (Slide 16-20)
       else if (grade >= 40 && grade <= 49) { // Executed if user inputs a grade within 40-49
 
         cout << "\nThe Grade of the Paper is: D\n";
-        cout << "The student has done an unsatisfactory job in this subject\n";
+        cout << "The student has done an unsatisfactory job in this subject.\n";
 
       }
 
