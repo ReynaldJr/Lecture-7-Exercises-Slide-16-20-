@@ -12,7 +12,7 @@ Exercises in Lecture 7 (Slide 16-20)
       cout << "Please enter the grade of the paper\n"; // Asks the user to input the grade of the paper
 
       int grade;
-      cin >> grade; // User inputs paper
+      cin >> grade; // User inputs grade of the paper
 
       if (grade >= 70) { // Executed if user inputs a grade equal to or more than 70
 
