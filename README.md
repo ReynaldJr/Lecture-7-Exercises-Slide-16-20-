@@ -85,7 +85,7 @@ Exercises in Lecture 7 (Slide 16-20)
 
             }
 
-            else { // If the user plays a instrument other than guitar or drums this will execute
+            else { // If the user typed their input incorrectly or if the friend plays a instrument other than guitar or drums this will execute
 
                 cout << "\nAww... Sorry, we don't accept the instrument your friend is using for the band.\n"; 
                 cout << "You can't start a band.\n";
