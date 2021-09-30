@@ -78,7 +78,7 @@ Exercises in Lecture 7 (Slide 16-20)
             cout << "What instrument does your friend play? (Please type in lowercase only)\n"; // Asks the user what instrument the friend plays
             cin >> friendPlaysin; // User inputs instrument
 
-            if (friendPlaysin == friendPlays || friendPlaysin == friendPlays2) { // If the user plays guitar or drums this will execute
+            if (friendPlaysin == friendPlays || friendPlaysin == friendPlays2) { // If the user's friend plays guitar or drums this will execute
 
                 cout << "\nCongratulations, your friend can enter the band!\n";
                 cout << "You can start a band!\n";
